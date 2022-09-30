@@ -1,0 +1,39 @@
+---
+title: "Phenolic Compounds of Green Tea"
+subtitle: "An annotated bibliography"
+author: "J. Hillert"
+date: "`r Sys.Date()`"
+output:
+  bookdown::word_document2:
+    number_sections: false
+    toc: yes
+    always_allow_html: true
+
+bibliography:
+- aRticles.bib
+
+csl: ecology.csl
+---
+
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(message=FALSE,
+                      echo=FALSE,
+                      warning=FALSE)
+
+library(papaja)
+library(tidyverse)
+
+
+papaja::r_refs(file = "annbib.bib")
+
+options(knitr.kable.NA = "")
+
+
+```
+
+#
+
+
+# References
