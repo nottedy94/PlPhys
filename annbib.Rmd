@@ -6,7 +6,7 @@ date: "`r Sys.Date()`"
 output:
   bookdown::word_document2:
     number_sections: false
-    toc: yes
+    toc: no
     always_allow_html: true
 
 bibliography:
@@ -33,7 +33,68 @@ options(knitr.kable.NA = "")
 
 ```
 
-#
+# @Card.2020
+## Kombucha
 
+words
+
+# @Gopa.2016
+## Green Tea
+
+words
+
+# @Hein.2011
+## Green Tea
+
+words
+
+# @Hsie.2021
+## Kombucha
+
+words
+
+# @Jaku.2020
+## Kombucha
+
+words
+
+# @Jaya.2007
+## Kombucha
+
+words
+
+# @Schm.2014
+## Green Tea
+
+words
+
+# @Vena.2008
+## Green Tea
+
+words
+
+# @Wang.2010
+## Green Tea
+
+words
+
+# @Zhou.2022
+## Kombucha
+
+words
 
 # References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
