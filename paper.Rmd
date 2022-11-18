@@ -1,0 +1,99 @@
+---
+title: "Phenolic Compunds in Green Tea and Green Tea Kombucha"
+author: "J. Hillert"
+date: "`r Sys.Date()`"
+output:
+  bookdown::word_document2:
+    number_sections: false
+    toc: no
+    always_allow_html: true
+
+bibliography:
+- aRticles.bib
+
+csl: ecology.csl
+---
+
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(message=FALSE,
+                      echo=FALSE,
+                      warning=FALSE)
+
+library(papaja)
+library(tidyverse)
+
+
+papaja::r_refs(file = "paper.bib")
+
+options(knitr.kable.NA = "")
+
+
+```
+
+# Introduction
+
+Green tea (GT), White tea (WT), and Black tea (BT) each originate from the *Camellia sinensis* plant which is native to the tropical and temperate regions of Asia, Africa, and South America [@Gopa.2016]. Small leaves and leaf buds are unfermented and used to make green tea, while white tea is composed of semi-fermented buds, and black tea is composed of fully fermented old leaves [@NCSU]. Tea is a globally consumed beverage second only to water, and the drink is praised for its numerous health benefits, briefly tea has anti-carcinogenic, anti-angiogenic, anti-mutagenic, anti-inflammatory, anti-bacterial, hypocholesterolemic, potentially anti-diabetic, and shows protection against Parkinson's and Alzheimer's disease [@Chac.2010; @Gopa.2016]. These and many other health benefits are mainly attributed to GT polyphenols, less so to flavonols, gallic acid derivaties, vitamins, minerals, enzymes, and others [@Gopa.2016].
+
+# GT Polyphenols [@Gopa.2016]
+
+
+# Green Tea Health Benefits 
+
+## Skin effects in women [@Hein.2011]
+## Working memory [@Schm.2014]
+## Body weight [@Vena.2008; @Wang.2010]
+
+# GTK antioxident activity increased 3.25x [@Zhou.2022]
+
+## Chemical profile [@Jaku.2020]
+## Fermentation time [@Hsie.2021]
+## Catechin degredation [@Jaya.2007]
+## Health benefits [@Card.2020]
+
+# Future kombuchas as a health drink
+
+## GT v GTK v PGT v PGTK
+## Health benefits [@Card.2020] & Sec. 1
+
+
+
+\newpage
+
+# References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
