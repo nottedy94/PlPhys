@@ -36,43 +36,43 @@ options(knitr.kable.NA = "")
 
 ```
 
-# @Card.2020 GTK
+# @Card.2020 GTK phenolic profile
 
 The researchers in this article discuss the phenolic profiles of kombuchas prepared with either black tea (BT) or green tea (GT). They discuss the effectiveness of green tea kombucha (GTK) against bacteria - E. coli, Salmonella, S. aureus, and L. monocytogenes,  - and cancer cell lines - IMR90 (lungs), HCT 8 (colon), and CACO-2 (colon). Prominent organic acids include glucronic and acetic acids that have detoxification and protective properties in the liver for the former and anitmicrobial activity with the latter. Ultimately total phenolic content (TPC) is influenced by fermentation time, fermentation temperature, and SCOBY microbes. This article will be very good for the final paper because of the above features discussed. 
 
-# @Gopa.2016 GT
+# @Gopa.2016 GT polyphenols
 
 This article discusses the polyphenols, flavanols, and gallic acid derivatives; ECG, EGCG, EGC, EC, and catechins (in order of decreasing efficiency). They accredit the health benefits of GT to the polyphenols, specifically catechin content. Various health benefits listed include; anti-carcinogenic, anti-angiogenic, protection against Parkinson's, Alzheimer's and ischemic damage, anti-mutagenic, potentially anti-diabetic, anti-HIV, anti-aging, hypocholesterolemic, anti-inflammatory, anti-bacterial, anti-artherosclerotic plaque forming, and it promotes energy expenditure. These benefits are attributed to the catechin content which can be 25-35% of the TPC of GT by dry weight. This article and others below describe the health benefits associated with polyphenols in GT and GTK.
 
-# @Hein.2011 GT
+# @Hein.2011 GT and skin
 
 This article goes more specifically into the skin protective effects of GT polyphenols and carotenoids in women. The researchers showed that consumption of GT with ~1400mg of catechins per serving for a prolonged period could reduce UV-induced erythema by 16% at 6 weeks and 25% at 12 weeks. Skin characteristics that were positively affected includes; elasticity, density, roughness, scaling, water homeostasis, and increased blood flow and oxygen delivery to the skin. Consumption at 6 and 12 months that decreased overall solar damage and reduced erythema telangiectasis, respectively. They also note that a flavanol rich diet (i.e. GT) can help prevent certain cancers and cardiovascular diseases. 
 
-# @Hsie.2021 GTK
+# @Hsie.2021 GTK ferment time and tea type
 
 @Hsie.2021 discuss the effects of fermentation time on kombucha derived from GT, BT, and Pu-er teas. They also note that type of tea influences the antioxidant potential of the final product. These researchers identify tea catechins, theaflavins, thearubigins, and flavanoids as the polyphenols that influence antioxidant potential. Their results show that GT and GTK have the most significant antioxidant potential as fermentation increased the antioxidative properties but this increase slowed with fermentation time. They confirm a benefit from above - the consumption of GT and GTK can help reduce cardiovascular diseases. 
 
-# @Jaku.2020 GTK
+# @Jaku.2020 GTK chemical profiles
 
 The authors produced kombuchas derived from green, black, white, and red teas to analyze the chemical profile and antioxidant capacity. Kombucha is identified here as having a rich chemical content including these health properties; organic acids (acetic, glucuronic, gluconic, tartaric, malic, citric, lactic, succinic, and malonic), vitamins (E, K, and B), minerals (potassium, manganese, and fluoride ions), amino acids (especially theanine), and polyphenols. Health benefits listed here include; anti-bacterial, antioxidant potential, hypocholesterolemic, anti-diabetic properties, immune system support, and stimulating the detoxification of the liver. They identify that tea type has a significant influence on antioxidant potential, pH, acetic acid content, alcohol content, and sugar content. They, likewise as above, confirm significantly highest antioxidant potentials in GT and GTK. 
 
-# @Jaya.2007 GTK
+# @Jaya.2007 GTK degredation
 
 This paper focused on the changes of organic acids and tea polyphenols in GTK, BTK, and tea waste kombucha, resulting degradation of catechins was lowest in GTK. This paper identifies four main catechins being responsible for antioxidant properties; EC, ECG, EGCG, and EGC. Other beneficial compounds identified include; gluconic acid, glucuronic acid, lactic acid, vitamins, amino acids, antibiotics, and minerals. Glucuronic acid was specifically identified for it detoxification action. Results from this study indicate that catechin degradation is pH-dependent being more stable in acidic environments. Overall degradation was lower in GTK than BTK for EGCG and ECG.
 
-# @Schm.2014 GT
+# @Schm.2014 GT working memory
 
 This article investigates whether green tea extract (GTE) modulates brain connectivity during working memory. Consumption of GTE increased working memory connectivity between the right superior parietal lobule to the middle frontal gyrus. The increased connectivity is positively correlated with task performance improvements. ECGC mediates its protective effects on cognitive functioning through antioxidative, iron-chelating, and modulation of cell-signaling and cell survival pathways. 
 
-# @Vena.2008 GT
+# @Vena.2008 GT fat oxidation
 
 @Vena.2008 investigated the rate of fat oxidation with consumption of GTE and found that average fat oxidation was 17% higher. GTE affects fat oxidation via the inhibition of catechol O-methyltransferase(5,6) thus increasing lipolysis. GTE was also shown to increase fat oxidation during moderate-intensity exercise by promoting lipolysis versus storage. Consumption of GTE can increase insulin sensitivity by 13% and can improve glycemic control and potential to reduce risk of type II diabetes. 
 
-# @Wang.2010 GT
+# @Wang.2010 GT body composition
 
 The subject of this article was the effects of catechin-rich GT consumption on body composition. Decreases in intra-abdominal fat showed the most consistent response with average decrease by 5.6 cm2. Reduction in waist circumference of 1.9 cm and an average decrease of 1.2 kg in body weight. Regular consumption of catechin-rich GT for more than 90 days can lead to significant reductions in body weight, waist circumference, and intra-abdominal fat. There is limited evidence of these effect in western populations. 
 
-# @Zhou.2022 GTK
+# @Zhou.2022 GTK TPC content
 
 Kombucha is identified as a popular beverage with various bioactive compounds, especially polyphenols. The researchers studied the effects of tea residues on the antioxidant ability, TPC, and polyphenol concentration during fermentation. Their results show that GTK with residue had a 3.25x increase in antioxidant activity and polyphenol concentration having a 5.68x increase. Their various assays to measure TPC and antioxidant activity generally agree that GTK and GTK with residue have higher polyphenol content and antioxidant ability. They identified much of the same bioactive compounds and health benefits as the above articles. Interestingly, sensory analyses showed a preference for BTK over GTK.
 
