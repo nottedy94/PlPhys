@@ -34,9 +34,18 @@ options(knitr.kable.NA = "")
 
 ### Introduction
 
-Green tea, white tea, and black tea each originate from the *Camellia sinensis* plant which is native to the tropical and temperate regions of Asia, Africa, and South America [@Gopa.2016]. Small leaves and leaf buds are unfermented and used to make green tea, while white tea is composed of semi-fermented buds, and black tea is composed of fully fermented old leaves [@NCSU]. Tea is a globally consumed beverage second only to water and the drink is praised for its numerous health benefits. Briefly, tea has anti-carcinogenic, anti-angiogenic, anti-mutagenic, anti-inflammatory, anti-bacterial, hypocholesterolemic, anti-diabetic, and shows protection against Parkinson's and Alzheimer's disease [@Chac.2010; @Gopa.2016]. These and many other health benefits are mainly attributed to green tea polyphenols, less so to flavonols and gallic acid derivatives, vitamins, minerals, enzymes, and others [@Gopa.2016]. Another health drink rising in popularity is Kombucha - which is a fermented beverage resulting from a symbiotic culture of bacteria and yeast (SCOBY) in a sweetened tea solution for about two weeks. The flavor profile shifts from sweet to tart to sour with increased fermentation time, temperature and SCOBY microbe composition. The total phenolic content (TPC) of kombucha made from green or black tea is over three times greater than regular green or black tea [@Zhou.2022]. Green tea and kombuchas are popular for their numerous health benefits and fermentation with a SCOBY enhances these benefits and is suggested by @Jaku.2020 a diet including kombucha can help support the body's antioxidative response, especially for those exposed to mental and physical stress.
+Green tea, white tea, and black tea each originate from the *Camellia sinensis* plant which is native to the tropical and temperate regions of Asia, Africa, and South America [@Gopa.2016]. Small leaves and leaf buds are unfermented and used to make green tea, while white tea is composed of semi-fermented buds, and black tea is composed of fully fermented old leaves [@NCSU]. Tea is a globally consumed beverage second only to water and the drink is praised for its numerous health benefits. Briefly, tea has anti-carcinogenic, anti-angiogenic, anti-mutagenic, anti-inflammatory, anti-bacterial, hypocholesterolemic, anti-diabetic, and shows protection against Parkinson's and Alzheimer's disease [@Chac.2010; @Gopa.2016]. These and many other health benefits are mainly attributed to green tea polyphenols, less so to flavonols and gallic acid derivatives, vitamins, minerals, enzymes, and others [@Gopa.2016]. Another health drink rising in popularity is Kombucha - which is a fermented beverage resulting from a symbiotic culture of bacteria and yeast (SCOBY) in a sweetened tea solution for about two weeks. The flavor profile shifts from sweet to tart to sour with increased fermentation time, temperature and SCOBY microbe composition. The total phenolic content of kombucha made from green or black tea is over three times greater than regular green or black tea [@Zhou.2022]. Green tea and kombuchas are popular for their numerous health benefits and fermentation with a SCOBY enhances these benefits and is suggested by @Jaku.2020 a diet including kombucha can help support the body's antioxidative response, especially for those exposed to mental and physical stress.
 
-### Health Benefits of Green Tea and Green Tea Kombucha
+### Polyphenols of Green Tea and Green Tea Kombucha
+
+The components of free tea that gives the drink its health benefits comes from polyphenols, flavanols, and gallic acid derivatives [@Gopa.2016]. Important compounds among the polyphenols includes alkaloids, carbohydrates, catechins, enzymes, free amino acids, minerals and vitamins. The health benefits are most particularly associated with the catechins which comprise 25% - 35% of green tea dry weight. The two most effective antioxidant compounds are EGCG and ECG. EGCG is also the most active and abundant - one cup of green tea could have 100-200 mg EGCG. @Gopa.2016 found that EGCG can help prevent dental cavities, inhibition of multiple drug resistant Staphylococcus aureus, and inhibition of HIV infection. The antioxidant potential of green tea can be increased 3.25x [@Zhou.2022] through fermentation with a SCOBY - symbiotic culture of bacteria and yeast. Fermentation is the metabolic breakdown of carbohydrates producing chemical changes in the organic substances via the action of enzymes associated with the SCOBY [@Noma]. 
+
+
+
+GTK antioxidant activity increased 3.25x [@Zhou.2022]
+Chemical profile [@Jaku.2020]
+
+### Health Benefits of Green Tea
 
 Green tea (GT) has antioxidative, anti-carcinogenic, anti-diabetic, anti-hypertensive, anti-inflammatory, anti-mutagenic, anti-proliferative, anti-thrombogenic, among many other properties [@Chac.2010; @Gopa.2016; @Vela.2008] giving the drink its status as a health drink. @Hein.2011 have shown that a flavanoid-rich diet can help prevent certain cancers and cardiovascular diseases, specifically related to UV-induced damage following sun exposure in women. Polyphenols in GT were shown to protect against many damaging effects of UV radiation, such as sunburn response, immunosuppression, and photo-aging. Flavonoids - epigallocatechingallate (EGCG), epicatechingallate (ECG), and epicatechin (EC) - are easily absorbable and bioavailable upon ingestion with the latter two primarily absorbed in the small intestine and 20-50% recovered in urine. They show that consumption of GT with ~1400 mg of catechins per serving can reduce UV-induced erythema by 16% at 6 weeks and 25% at 12 weeks. Prolonged consumption of GT polyphenols and carotenoids at 6 months decreases overall solar damage and at 12 months reduces UV-induced erythema telangiectasis. This research shows that the body readily absorbs polyphenolic compounds and is able to use and recycle them to some extant before excretion. 
 
@@ -44,23 +53,18 @@ Green tea extract (GTE), a concentrated form of GT mainly consisting of antioxid
 
 Obesity is a global problem and a catechin-rich diet has been shown to decrease intra-abdominal fat (IAF) in an overweight population [@Wang.2010]. They show that regular consumption of catechin-rich GT for greater than 90 days led to significant responses in body weight, waist circumference, and the most consistent effect in IAF. Catechin-rich diets have been shown to increase lipolysis during moderate-intensity exercise and decrease IAF [@Vena.2008; Wang.2010]. GTE was shown to inhibit catechol 0-methyltransferase(5,6) and increase fat oxidation by 17% through lipolysis. @Vena.2008 show that GTE effects are not limited to fat oxidation. In men, GTE consumption can increase insulin sensitivity by 13% and improve glycemic control, thus reducing the risk of type II diabetes. 
 
-Body weight [@Vena.2008; @Wang.2010]
+Several studies have found a positive correlation between GT consumption and cardiovascular health. In a review by @Vela.2008, they found evidence that GT catechins improve blood lipid profiles, regulate vascular tone, prevent vascular inflammation, inhibit vascular smooth muscle proliferation, and inhibit thrombogenesis. In this review they found that plasma catechin levels were 0.2-2%, indicating that bioavailability of catechins is lower than amount absorbed. Despite this limitation in GT, the authors confirm the health benefits in literature with emphasis on cardiovascular health. They show that catechins positively affect plasma lipid profile and vascular function and inhibitory effects on oxidation, vascular inflammation, atherogenesis, and thrombogenesis. GT catechins antioxidant activity scavenges free radicals, chelates transition-metal ions, inhibit pro-oxidant enzymes in favor of antioxidant enzymes. 
 
-### Polyphenols of Green Tea and Green Tea Kombucha
+### Health benefits of Green Tea Kombucha
 
-The components of GT that gives the drink its health benefits comes from polyphenols, flavanols, and gallic acid derivatives [@Gopa.2016]. Important compounds among the polyphenols includes alkaloids, carbohydrates, catechins, enzymes, free amino acids, minerals and vitamins. The health benefits are most particularly associated with the catechins which comprise 25% - 35% of green tea dry weight. The two most effective antioxidant compounds are EGCG and ECG. EGCG is also the most active and abundant - one cup of GT could have 100-200 mg EGCG. @Gopa.2016 found that EGCG can help prevent dental cavities, inhibition of multiple drug resistant Staphylococcus aureus, and inhibition of HIV infection. The antioxidant potential of GT can be increased 3.25x [@Zhou.2022] through fermentation with a SCOBY. Fermentation is the metabolic breakdown of carbohydrates that produces chemical changes in the organic substances via the action of enzymes associated with the SCOBY [@Noma]. 
+### Kombucha limitations
 
-### GTK antioxident activity increased 3.25x [@Zhou.2022]
-
-Chemical profile [@Jaku.2020]
 Fermentation time [@Hsie.2021]
 Catechin degradation [@Jaya.2007]
-Health benefits [@Card.2020]
 
-### Future kombuchas as a health drink
+### Future research
 
 GT v GTK v PGT v PGTK
-Health benefits [@Card.2020] & Sec. 1
 
 As noted by @Hein.2011, GT catechins have a range of effects similar to that of cocoa polyphenols, an addition of cocoa to kombucha during the secondary fermentation could cause a synergistic effect with GT polyphenols. 
 
