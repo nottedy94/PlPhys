@@ -1,5 +1,5 @@
 ---
-title: "Phenolic Compunds in Green Tea and Green Tea Kombucha"
+title: "Phenolic Compounds in Green Tea and Green Tea Kombucha"
 author: "J. Hillert"
 date: "`r Sys.Date()`"
 output:
